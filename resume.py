@@ -6,12 +6,15 @@ def about_page():
     st.write("Welcome to my portfolio!")
     st.subheader("Skills:")
     st.write("- Python")
-    #add images to the right of each skill
     st.image("images/python.png", width = 100)
     st.write("- JavaScript")
+    st.image("images/js.png", width = 100)
     st.write("- HTML/CSS")
+    st.image("images/htmlcss.png", width = 100)
     st.write("- PHP")
+    st.image("images/php.png", width = 100)
     st.write("- Microsoft Office")
+    st.image("images/micro.png", width = 100)
     st.subheader("Hobbies/Interests:")
     st.write("I enjoy playing instruments, reading, and running.")
 
