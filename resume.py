@@ -7,7 +7,7 @@ def about_page():
     st.subheader("Skills:")
     st.write("- Python")
     #add images to the right of each skill
-    st.image("images/python.svg", width = 100)
+    st.image("images/python.png", width = 100)
     st.write("- JavaScript")
     st.write("- HTML/CSS")
     st.write("- PHP")
